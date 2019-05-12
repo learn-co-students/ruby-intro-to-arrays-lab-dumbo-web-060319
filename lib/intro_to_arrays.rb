@@ -30,7 +30,7 @@ end
 
 # 7th method
 def last_element_with_array_methods(arr)
-  
+  arr.last()
 end
 
 # 8th method
