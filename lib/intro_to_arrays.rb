@@ -14,8 +14,8 @@ def first_element(arr)
 end
 
 # 4th method
-def third_element
-
+def third_element(arr)
+  arr[2]
 end
 # 5th method
 def last_element
