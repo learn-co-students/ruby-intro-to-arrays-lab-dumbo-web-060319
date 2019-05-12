@@ -35,5 +35,5 @@ end
 
 # 8th method
 def length_of_array(arr)
-  
+  arr.length()
 end
