@@ -22,3 +22,18 @@ end
 def last_element(arr)
   arr[-1]
 end
+
+# 6th method
+def first_element_with_array_methods(arr)
+  arr.first()
+end
+
+# 7th method
+def last_element_with_array_methods(arr)
+  
+end
+
+# 8th method
+def length_of_array(arr)
+  
+end
