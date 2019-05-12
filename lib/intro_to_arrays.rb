@@ -9,8 +9,8 @@ def array_with_two_elements
 end
 
 # third method
-def first_element
-
+def first_element(arr)
+  arr[0]
 end
 
 # 4th method
