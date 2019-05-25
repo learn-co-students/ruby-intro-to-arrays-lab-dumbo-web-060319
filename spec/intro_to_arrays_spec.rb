@@ -10,7 +10,7 @@ describe "working with arrays" do
       before(:each) do
         @my_new_array = instantiate_new_array
       end
-      
+      lea
       it "creates a new array and returns it" do
         expect(@my_new_array).to be_an(Array)
       end
